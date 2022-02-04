@@ -1,3 +1,3 @@
 # Digital-System-Design-
-
+# The LANGUAGE OF DIGITAL SYSTEM DESIGN 
 # Boolean algebra is fundamental to the operation of an FPGA. Boolean Algebra describes operations where the inputs and outputs take the values true or false (1 or 0, respectively). So you shouldn't worry if you are not good at Calculus, Boolean Algebra is the most basic math possible! It was introduced in 1854 by the mathematician George Boole. With the rules established by Boolean algebra, it is possible to create a foundation to do all basic logical operations. The operations that this article will discuss are: AND, OR, NOT, XOR (exclusive or), and NAND (my personal favorite). With these basic building blocks of digital logic in place, it is possible to create much more complicated operations such as addition, subtraction, division, etc. However first we must understand the basics.
