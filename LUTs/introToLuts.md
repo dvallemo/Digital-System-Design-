@@ -27,5 +27,7 @@ The truth table in the above example has two inputs (A and B), which means that 
 As was mentioned in the beginning of this article, discrete logic gates do not actually exist inside of an FPGA. Instead FPGAs use Look-Up Tables or LUTs. The LUT is programmed by the Digital Designer to perform a Boolean algebra equation like the two that we saw above. As you might expect, all possible combinations of boolean expressions need to be able to be programmed into the Look-Up Table. I will say that again a different way: One 3-Input LUT can make any Boolean algebra equation you can think of using 3 input signals. Amazing!
 
 LUTs can come in different sizes depending on the FPGA that you are using, but they all behave the same way. 3-Input LUTs were the norm not too long ago, but today 4-Input and even 5-Input LUTs are common. If you need to make a more complicated expression, you can just use more Look-Up Tables. LUTs are one of the two most fundamental components in an FPGA. A single FPGA has thousands of these components. Now that you are more familiar with these wonderfully versatile components, it is time to discuss the other most important element inside of an FPGA:
+
 ![image](https://user-images.githubusercontent.com/52580367/152701866-0419adb9-8900-4317-8ddf-aebac21473fc.png)
+
 (Tutorial - Boolean Algebra using Look-Up Tables (LUT), 2022)
