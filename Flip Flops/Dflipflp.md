@@ -40,3 +40,4 @@ Now that you understand how they work, let's discuss why they are so crucial to 
 If everything was just made of LUTs, there would be no way to keep state in the FPGA. This means the FPGA would have no idea what happened previously. All changes on the inputs would immediately be evaluated and sent to the output with a very long chain of and gates, or gates, etc. But in order to do the vast majority of tasks an FPGA needs to know something about the past. This way it can keep track of counters, state machines, and the status of things. Flip-flops make this possible. If you still don't quite grasp this concept yet, that's OK. It's an abstract way of thinking. The importance of flip-flops in your FPGA designs will become more apparent the more you work with a Hardware Description Language (HDL).
 
 # Now that you have learned the basics of digital design, let's start learning an HDL!
+(Tutorial - Flip-Flops in FPGAs, 2022)
