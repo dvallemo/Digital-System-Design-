@@ -23,7 +23,7 @@ Digital clock square wave
 This type of clock!
 Digital clocks are what makes almost all digital circuits operate. One way to think about the clock in a system is to think of set of gears. In order for any gear in the system to turn, there must be some master gear that drives all the others. That is effectively the purpose of the clock in digital logic. It provides a steady stream of low-to-high-to-low again transitions of a voltage that lets your FPGA chug along. Plus the analogy is fun because the gears look a bit like the square wave of a digital clock.
 This type of clock!
-# Youtube video explaingin this in full detail by nanland.com
+# Youtube video explaining this in full detail by nanland.com
 https://www.youtube.com/watch?v=lrXjuotxqzE&ab_channel=nandland
 
 # Continuing with clocks
