@@ -9,7 +9,7 @@ The first concept that needs to be understood is called a Truth Table. A truth t
 # Truth Table - AND Gate
 ![image](https://user-images.githubusercontent.com/52580367/152601077-242bf07c-a1c0-41b2-9a52-8a33c77ad947.png)
 ![image](https://user-images.githubusercontent.com/52580367/152601174-c5baf42e-a0e7-4bbc-8339-2541cd9e17a2.png)
-#OR Gate RepresentationAn OR gate has 2 inputs and 1 output. The output is 1 when either of the input values are 1. Below is the truth table for an OR gate.
+# OR Gate RepresentationAn OR gate has 2 inputs and 1 output. The output is 1 when either of the input values are 1. Below is the truth table for an OR gate.
 ![image](https://user-images.githubusercontent.com/52580367/152601233-1920e4c0-9a91-469e-ab9b-b175324cfb58.png)
 ![image](https://user-images.githubusercontent.com/52580367/152601297-5b997026-4f11-4206-b6a3-d14d1dbbfc7a.png)
 
