@@ -2,11 +2,11 @@
 # The LANGUAGE OF DIGITAL SYSTEM DESIGN 
 Boolean algebra is fundamental to the operation of an FPGA. Boolean Algebra describes operations where the inputs and outputs take the values true or false (1 or 0, respectively). So you shouldn't worry if you are not good at Calculus, Boolean Algebra is the most basic math possible! It was introduced in 1854 by the mathematician George Boole. With the rules established by Boolean algebra, it is possible to create a foundation to do all basic logical operations. The operations that this article will discuss are: AND, OR, NOT, XOR (exclusive or), and NAND (my personal favorite). With these basic building blocks of digital logic in place, it is possible to create much more complicated operations such as addition, subtraction, division, etc. However first we must understand the basics.
 
-# The first concept that needs to be understood is called a Truth Table. A truth table is a table that describes functionality based on the inputs and outputs. This is best demonstrated by looking at the truth table for an AND gate.
+The first concept that needs to be understood is called a Truth Table. A truth table is a table that describes functionality based on the inputs and outputs. This is best demonstrated by looking at the truth table for an AND gate.
 
-# AND Gate RepresentationAn AND gate has 2 inputs and 1 output. Each of these can have the value 0 or 1 and the output value depends on the 2 input values. The output is only 1 when both of the input values are 1. Below is the truth table for an AND gate.
+#AND Gate RepresentationAn AND gate has 2 inputs and 1 output. Each of these can have the value 0 or 1 and the output value depends on the 2 input values. The output is only 1 when both of the input values are 1. Below is the truth table for an AND gate.
 
-# Truth Table - AND Gate
+#Truth Table - AND Gate
 ![image](https://user-images.githubusercontent.com/52580367/152601077-242bf07c-a1c0-41b2-9a52-8a33c77ad947.png)
 ![image](https://user-images.githubusercontent.com/52580367/152601174-c5baf42e-a0e7-4bbc-8339-2541cd9e17a2.png)
 # OR Gate RepresentationAn OR gate has 2 inputs and 1 output. The output is 1 when either of the input values are 1. Below is the truth table for an OR gate.
@@ -25,7 +25,6 @@ Boolean algebra is fundamental to the operation of an FPGA. Boolean Algebra desc
 ![image](https://user-images.githubusercontent.com/52580367/152601447-0aa5afa6-3429-4e24-aee2-30960723ade4.png)
 ![image](https://user-images.githubusercontent.com/52580367/152601473-4a423d05-019f-4faa-8c02-f2affe5ee7ac.png)
 
-
-# Now that you see how these basic gates work, let's see more complicated Boolean algebra using Look-Up Tables (LUTs)
+Now that you see how these basic gates work, let's see more complicated Boolean algebra using Look-Up Tables (LUTs)
 
 (Tutorial - How Boolean Algebra works inside an FPGA, 2022)
