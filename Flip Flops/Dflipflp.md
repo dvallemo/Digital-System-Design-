@@ -1,5 +1,5 @@
 # Tutorial - How Flip-Flops Work in FPGAs
-
+# The most important flip flop in the Digital System Design Industry
 In the previous article, we discussed the Look-Up Table (LUT) component. This is one of the two most important components inside of an FPGA, the other most important component is the Flip-Flop. There are a few different types of flip-flops (JK, T, D) but the one that is used most frequently is the D Flip-Flop.
 
 D Flip Flop (AKA Register)
