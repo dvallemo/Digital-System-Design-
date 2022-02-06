@@ -26,6 +26,8 @@ This type of clock!
 # Youtube video explaingin this in full detail by nanland.com
 https://www.youtube.com/watch?v=lrXjuotxqzE&ab_channel=nandland
 
+# Continuing with clocks
+
 The clock is what allows a Flip-Flop to be used as a data storage element. Any data storage elements are known as sequential logic or registered logic. Sequential logic operates on the transitions of a clock. 99.9% of the time this will be the rising edge (when the clock goes from 0 to 1). When a Flip-Flop sees a rising edge of the clock, it registers the data from the Input D to the Output Q. Flip-Flops are what make complex FPGAs possible! Let's look at a waveform of a few events.
 ![image](https://user-images.githubusercontent.com/52580367/152701277-d9b0a461-b4c2-4e42-b83c-a2443b103b5f.png)
 
