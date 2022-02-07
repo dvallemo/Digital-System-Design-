@@ -1,6 +1,6 @@
 https://www.citethisforme.com/
 
-References
+### References
 
 Nandland.com. 2022. Tutorial - Boolean Algebra using Look-Up Tables (LUT). [online] Available at: <https://www.nandland.com/articles/boolean-algebra-using-look-up-tables-lut.html> [Accessed 6 February 2022].
 
