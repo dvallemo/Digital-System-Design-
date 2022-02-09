@@ -28,7 +28,7 @@
   ## Single Port BRAM Cofiguration 
   
   Syncronous peaces of logic, driven by a clock. Some have a reset input that can resent to its initial condition. 
-  The Write Enable signal, when this is high, thw data thjat is going in Wr data synchronous to the clock, will be written at that particular address. When low, Bram will read on to the wr datawhatever adress you give it.
+  The Write Enable signal, when this is high, the data that is going in Wr data synchronous to the clock, will be written at that particular address. When low, Bram will read on to the wr datawhatever adress you give it.
   
 ![image](https://user-images.githubusercontent.com/52580367/153115568-07b149f4-b542-4342-8495-d3b1c02d0bc6.png)
 
