@@ -32,4 +32,4 @@
   
 ![image](https://user-images.githubusercontent.com/52580367/153115568-07b149f4-b542-4342-8495-d3b1c02d0bc6.png)
 
-(Tutorial - What is aBlock RAM in an FPGA?, 2022)
+(Tutorial - What is a Block RAM in an FPGA?, 2022)
