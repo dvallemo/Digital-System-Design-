@@ -1,2 +1,2 @@
-# Test bench simulation using GTK wave
+# Test bench simulation using GTKWave
 in progress
