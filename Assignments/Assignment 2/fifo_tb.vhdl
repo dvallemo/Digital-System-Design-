@@ -70,3 +70,5 @@ begin
 	
 	end process;
 end test;
+
+--“VHDL code for FIFO memory,” FPGA Projects, Verilog Projects, VHDL Projects - FPGA4student.com. [Online]. Available: https://www.fpga4student.com/2017/01/vhdl-code-for-fifo-memory.html. [Accessed: 03-Feb-2022]. 
