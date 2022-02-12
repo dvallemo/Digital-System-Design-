@@ -12,23 +12,20 @@ ghdl -a <file.vhdl>
 ```
 ```
 ghdl -a <testbenchfile.vhdl>
-```
-ghdl -e <testbenchfile>
-```
 
-  ```
+ghdl -e <testbenchfile>
+
+
+ 
 ghdl -r <testbenchfile>
 
-  ```  
+    
   
-```
 ghdl -r <testbenchfile --vcd=file.vcd>
-```
 
-  ```
 dir 
 
-  ```
+  
 you will find your vcd file here
 To run with GTKWave
   
