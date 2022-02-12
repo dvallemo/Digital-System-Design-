@@ -16,8 +16,7 @@ ghdl -e <testbenchfile>
 ```
 ```
 ghdl -r <testbenchfile>
-``` 
-# Running GTKWave 
+```  
   
 ```
 ghdl -r <testbenchfile --vcd=file.vcd>
