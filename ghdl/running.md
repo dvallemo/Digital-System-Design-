@@ -16,4 +16,18 @@ ghdl -e <testbenchfile>
 ```
 ```
 ghdl -r <testbenchfile>
+``` 
+# Running GTKWave 
+  
+```
+ghdl -r <testbenchfile --vcd=file.vcd>
+```
+```
+dir 
+```
+you will find your vcd file here
+To run with GTKWave
+  
+```
+gtkwave <file.vcd>
 ```
