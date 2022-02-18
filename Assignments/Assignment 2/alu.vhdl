@@ -38,3 +38,5 @@ BEGIN
     END PROCESS;
 
 END Behavioral;
+
+            --GitHub. 2022. VHDL-exercises-examples/alu.vhdl at master · s-gbz/VHDL-exercises-examples. [online] Available at: <https://github.com/s-gbz/VHDL-exercises-examples/blob/master/alu.vhdl> [Accessed 18 February 2022].
