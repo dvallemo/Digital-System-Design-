@@ -62,4 +62,4 @@ BEGIN
 	         "01111111" WHEN dig = "111" ELSE -- 7
 	         "11111111";
 END Behavioral;
---(Lab 1-Kevin Lu 2021)
+--(Lab 1-Kevin Lu, 2021)
