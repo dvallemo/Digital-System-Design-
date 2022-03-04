@@ -9,3 +9,11 @@
 ![counter.png](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/Lab-2/counter.png)
 
 ![hexcount.png](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/Lab-2/hexcount.png)
+
+
+https://user-images.githubusercontent.com/52580367/156841866-dac2c96a-8b56-4559-881f-2f56d8a7d30c.MOV
+
+
+
+https://user-images.githubusercontent.com/52580367/156841877-02c257d9-e9a5-4d06-9463-eb7661d4b2b4.MOV
+
