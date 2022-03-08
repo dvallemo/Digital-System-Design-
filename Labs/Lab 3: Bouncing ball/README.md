@@ -13,4 +13,8 @@ Color: from red to blue
 
 Movement: added an x componenet and implimented the x_motion signal to the motion entity. The square originally moved only in the y direction up and down 
 
-# 
+# Part one: Running the square ball code
+
+# Part two: Chanigin the parameters:
+
+# Part three: Implimentation
