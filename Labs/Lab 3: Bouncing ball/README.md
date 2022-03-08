@@ -17,4 +17,4 @@ Movement: added an x componenet and implimented the x_motion signal to the motio
 
 # Part two: Chanigin the parameters:
 
-# Part three: Implimentation
+# Part three: Implimentation and demo
