@@ -1,5 +1,26 @@
 # Space Invaders 3.0
 
+### The objective is to take Space Invaders 2.0 and make it more playable for the user
+
+### Source Files: 
+
+### 1. [TopModule.vhd](./TopModule.vhd)
+
+### 2. [VGAPixelDriver.vhd](./VGAPixelDriver.vhd)
+
+### 3. [VideoMemory.vhd](./VideoMemory.vhd)
+
+### 4. [debounce.vhd](./debounce.vhd)
+
+### 5. [leddec16.vhd](./leddec16.vhd)
+
+### 6. [ps2_keyboard.vhd](./ps2_keyboard.vhd)
+
+### Constraint Files: 
+
+### 1. [BoardMasterNexysA7.xdc](./BoardMasterNexysA7.xdc)
+
+
 ## Changes to the game
 Some changes were implemented to make the game more playableand fun to play
 
