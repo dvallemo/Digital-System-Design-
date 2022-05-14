@@ -1,4 +1,4 @@
-# Space Invadors 3.0
+# Space Invaders 3.0
 
 ## Changes to the game
 Some changes were implemented to make the game more playableand fun to play
