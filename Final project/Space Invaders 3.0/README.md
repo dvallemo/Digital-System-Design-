@@ -46,4 +46,4 @@ By adjusting the fire rate, and the enemy distance from  the ship, you can allow
 # Demo
 https://user-images.githubusercontent.com/52580367/167756151-f697f0bc-de46-452d-8330-7bbe03c6b04b.mov
 
-
+(miafelic, Space Invaders 2.0, 2021, https://github.com/miafelic/CPE487/tree/main/Space%20Invaders%202.0)
